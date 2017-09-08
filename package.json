@@ -1,0 +1,16 @@
+{
+  "name": "hyper-qod",
+  "version": "0.0.1",
+  "description": "Quote of the day for Hyper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyper",
+    "quotes",
+    "quote"
+  ],
+  "author": "Hitarth Sharma",
+  "license": "ISC"
+}
